@@ -1,0 +1,1 @@
+alert("Yağız oyunu çalışıyor!");
